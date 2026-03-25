@@ -1,0 +1,4 @@
+agent,p_esc_mean,p_esc_std,t_recover_mean,f_load_mean
+Sentiment-Only,0.0627,0.0213,1.386,28.538
+Static-Valence,0.0,0.0,0.0,9.242
+NEPA-HRI,0.0931,0.0422,1.877,26.089
